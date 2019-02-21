@@ -79,5 +79,8 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
+
+#others
+.DS_store
 target/
 # End of https://www.gitignore.io/api/intellij
