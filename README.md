@@ -1,0 +1,2 @@
+# clickstream
+Flink streaming example
